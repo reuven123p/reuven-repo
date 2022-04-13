@@ -1,0 +1,37 @@
+[33mcommit 68a609a3cd4ea0fc54bc24fa3af69fecc0880efc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Reuven <reuvenluria1@gmail.com>
+Date:   Wed Apr 13 15:34:26 2022 +0300
+
+    testing git basic commands
+
+ README.md       | 1 [32m+[m
+ information.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit 3e11747f894d5d55f78d8f563cbb40f94997e78c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Reuven <reuvenluria1@gmail.com>
+Date:   Wed Apr 13 14:32:05 2022 +0300
+
+    commit 3
+
+ file1.txt | 1 [32m+[m
+ file2.txt | 2 [32m++[m
+ 2 files changed, 3 insertions(+)
+
+[33mcommit 51773def68430caae13e31540315222ebe59065d[m
+Author: Reuven <reuvenluria1@gmail.com>
+Date:   Wed Apr 13 13:20:51 2022 +0300
+
+    commit project-spec
+
+ project-spec.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit e145a230dad3389ca6fe1439268980e92e13ee7b[m
+Author: Reuven <reuvenluria1@gmail.com>
+Date:   Wed Apr 13 13:17:42 2022 +0300
+
+    commit hello world
+
+ hello-world.bash | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
